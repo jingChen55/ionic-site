@@ -70,7 +70,7 @@
     "marked": "^0.3.6",
     "merge-stream": "^1.0.1",
     "mkdirp": "^0.5.1",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "nunjucks": "^3.0.0",
     "pipedrive": "^3.0.1",
     "psi": "^1.0.4",
