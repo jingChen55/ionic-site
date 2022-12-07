@@ -35,7 +35,7 @@
     "del": "^2.2.2",
     "dotenv": "^4.0.0",
     "event-stream": "^3.3.1",
-    "express": "^4.12.3",
+    "express": "^4.17.3",
     "express-ab": "^0.7.0",
     "express-nunjucks": "^2.2.3",
     "gulp": "^3.9.1",
